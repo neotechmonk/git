@@ -26,3 +26,4 @@
 # Cache files
 *.swp
 *~
+venv
